@@ -1,0 +1,7 @@
+# Arquivos de Server para serem ignorados
+/server/node_modules
+/server/package-lock.json
+
+# Arquivos de Client para serem ignorados
+/client/node_modules
+/client/package-lock.json
